@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ztoc.
-
+*komentar
 INCLUDE ztoc_top.
 INCLUDE ztoc_c01.
 "change branch new
