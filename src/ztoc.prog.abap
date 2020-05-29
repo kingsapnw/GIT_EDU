@@ -7,7 +7,7 @@ REPORT ztoc.
 *komentar
 INCLUDE ztoc_top.
 INCLUDE ztoc_c01.
-"change branch new
+"branch abap 7.0
 INITIALIZATION.
 *set target group
   SELECT SINGLE targ_group
